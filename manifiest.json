@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/cloud/manifiestrc.schema.json",
+  "name": "Community cloud components",
+  "author": {
+    "github_user": "dmunozgaete",
+    "name": "Team Seki"
+  },
+  "descriptions": {
+    "en": "Community cloud components",
+    "es": "Componentes nube mantenidos por la comunidad"
+  },
+  "types": [
+  ]
+}
