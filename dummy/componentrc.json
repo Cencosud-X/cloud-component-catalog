@@ -3,7 +3,7 @@
   "name": "dummy",
   "kind": "dummy",
   "owner": [
-    "ci-test"
+    "invalid"
   ],
   "visibility": "private",
   "tags": [
