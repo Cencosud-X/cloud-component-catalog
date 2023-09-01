@@ -10,5 +10,6 @@
     "es": "Componentes nube mantenidos por la comunidad"
   },
   "types": [
+    "dummy/componentrc.json"
   ]
 }
