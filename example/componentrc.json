@@ -3,7 +3,7 @@
   "name": "example",
   "kind": "example",
   "owner": [
-    "ci-test"
+    "ci-test, jc-test"
   ],
   "visibility": "private",
   "tags": [
