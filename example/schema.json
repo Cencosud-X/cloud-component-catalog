@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "allOf": [
+    {
+      "properties": {
+        "properties": {
+          "type": "object",
+          "description": "Specific properties for the cloud component",
+          "properties": {
+            "mem_in_mb": {
+              "type": "number",
+              "description": "memory in megabytes",
+              "default": 1,
+              "maximum": 5
+            }
+          }
+        }
+      }
+    },
+    {
+      "$ref": "https://raw.githubusercontent.com/Cencosud-X/seki-schemas/main/v1/cloud/component.schema.json"
+    }
+  ]
+}
